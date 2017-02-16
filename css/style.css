@@ -1,0 +1,17 @@
+body {
+  /*color: red;*/
+}
+
+footer {
+  background: black;
+  color: white;
+}
+
+.footer-search, .footer-social, .footer-nav {
+  display: inline-block;
+  width: 30%;
+}
+img {
+  max-width: 100%;
+
+}
